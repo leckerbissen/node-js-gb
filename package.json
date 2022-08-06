@@ -1,0 +1,24 @@
+{
+  "name": "js-gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node numbers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leckerbissen/node-js-gb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leckerbissen/node-js-gb/issues"
+  },
+  "homepage": "https://github.com/leckerbissen/node-js-gb#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.6"
+  }
+}
